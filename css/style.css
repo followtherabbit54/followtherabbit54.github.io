@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin-top: 50px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+p.gray {
+    color: lightblue;
+    opacity: 0.1;
+}
+
+p.white {
+    color: lightcyan;
+} 
+
+.white_text {
+    color: white;
+}
+
+.centered_text {
+    text-align: center;
+}
+
+.main_img {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.margin_bottom {
+    margin-bottom: 50px;;
+}
+
+.margin_top {
+    margin-top: 20px;
+}
