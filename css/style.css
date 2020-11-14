@@ -44,3 +44,17 @@ p.white {
 .margin_top {
     margin-top: 20px;
 }
+
+button {
+    display: block;
+    margin: 100px auto;
+    width: 120px;
+    height: 44px;
+    color: white;
+    text-transform: uppercase;
+}
+
+a {
+    color: whitesmoke;
+
+}
